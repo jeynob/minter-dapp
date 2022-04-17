@@ -1,7 +1,7 @@
 const contractAddress = "0x0fF1b774B3ABAca9b01079568ecAB63EDb955C83"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Starsier Club Project!!";
+const welcome_h1 = "Welcome to the STARSIER CLUB!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Starsier Club is a computer-generated collectibles made out of 3333 different tarsiers created by thirteen-year-old Allan Sumod-ong from the Philippines, who began learning about nfts since the pandemic started.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
