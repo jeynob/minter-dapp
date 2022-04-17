@@ -8,10 +8,10 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #00163f;
+  --bg-color: #9fcaa7;
   --bg-color-transparent: #00163f80;
   --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
+  --btn-bg-color: #201a1a;
   --accent-color: #be7efe;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
@@ -66,7 +66,7 @@ header .container {
   align-items: center;
   height: 100%;
   text-align: center;
-  margin: 0 auto 0 25vw;
+  margin: 0 auto 0 28vw;
   opacity: 0;
   transform: translateY(10vh);
   transition: all 0.5s ease-in-out;
@@ -81,7 +81,7 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: italic;
   margin: 2rem 0;
-  font-size: 3.5rem;
+  font-size: 2rem;
 }
 
 .not-connected p {
