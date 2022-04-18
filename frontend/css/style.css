@@ -29,7 +29,7 @@ body {
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
-  height: 80vh;
+  height: 120vh;
   color: var(--font-color);
   font-family: "Press Start 2P";
 }
@@ -83,7 +83,7 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: normal;
   margin: 2rem 0;
-  font-size: 2.4rem;
+  font-size: 2.2rem;
 }
 
 .not-connected p {
@@ -107,7 +107,7 @@ header .container {
   background: var(--btn-bg-color);
   color: var(--accent-color);
   font-family: var(--font-secondary);
-  font-style: italic;
+  font-style: normal;
   font-weight: bold;
   font-size: 1rem;
   text-align: center;
