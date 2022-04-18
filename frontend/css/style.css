@@ -32,13 +32,12 @@ body {
   height: 120vh;
   color: var(--font-color);
   font-family: "Press Start 2P";
-  width: 1700px;
 }
 
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 1rem 2rem;
   justify-content: center;
