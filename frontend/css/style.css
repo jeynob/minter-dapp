@@ -11,7 +11,7 @@
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #243026;
-  --bg-color-transparent: #00163f80;
+  --bg-color-transparent: #e2e6ef80;
   --font-color: #ffffff;
   --btn-bg-color: #201a1a;
   --accent-color: #be9304;
@@ -82,7 +82,7 @@ header .container {
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: normal;
-  margin: 2.4rem,2.4rem;
+  margin: 2.4rem 0;
   font-size: 2rem;
 }
 
@@ -109,7 +109,7 @@ header .container {
   font-family: "VT323";
   font-style: normal;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-align: center;
   text-transform: capitalize;
   transition: all 0.3s ease;
