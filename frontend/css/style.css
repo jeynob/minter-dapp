@@ -82,7 +82,7 @@ header .container {
 .not-connected h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: normal;
-  margin: 2rem 0;
+  margin: 3rem 0;
   font-size: 2.2rem;
 }
 
@@ -106,7 +106,7 @@ header .container {
   padding: 1rem 2rem;
   background: var(--btn-bg-color);
   color: var(--accent-color);
-  font-family: var(--font-secondary);
+  font-family: "VT323";
   font-style: normal;
   font-weight: bold;
   font-size: 1rem;
