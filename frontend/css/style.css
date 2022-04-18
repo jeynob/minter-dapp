@@ -31,7 +31,7 @@ body {
   flex-flow: column;
   height: 100vh;
   color: var(--font-color);
-  font-family: "VT323","Press Start 2P";
+  font-family: "Press Start 2P";
 }
 
 .container {
@@ -83,7 +83,7 @@ header .container {
   text-shadow: 2px 2px 0 var(--accent-color);
   font-style: normal;
   margin: 2rem 0;
-  font-size: 2.2rem;
+  font-size: 2.4rem;
 }
 
 .not-connected p {
