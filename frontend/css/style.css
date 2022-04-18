@@ -213,9 +213,9 @@ section {
 
 .countdown h1 {
   text-shadow: 2px 2px 0 var(--accent-color);
-  font-style: italic;
+  font-style: normal;
   margin: 2rem 0;
-  font-size: 3.5rem;
+  font-size: 3.2rem;
   text-align: center;
 }
 
@@ -304,8 +304,7 @@ section {
 
 .minted-container h1 {
   font-family: "VT323";
-  font-size: 3rem;
-  margin-bottom: 0rem;
+  margin-bottom: 2rem;
 }
 
 .minted-container h2 {
@@ -315,6 +314,8 @@ section {
 
 .minted-container p {
   margin: 1rem 0;
+  font-family: "VT323";
+  font-size: 1rem;
 }
 
 /* SLIDDER */
