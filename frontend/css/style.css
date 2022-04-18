@@ -14,9 +14,10 @@
   --bg-color-transparent: #e2e6ef80;
   --font-color: #ffffff;
   --btn-bg-color: #201a1a;
-  --accent-color: #be9304;
+  --accent-color: hwb(37 2% 25%);
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
+  --bg-color-2: #43a353;
 }
 
 * {
@@ -47,7 +48,7 @@ body {
 /* HEADER */
 
 header {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color-2);
   box-shadow: var(--header-shadow);
 }
 
