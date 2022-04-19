@@ -85,7 +85,7 @@ header .container {
   font-style: normal;
   margin: 2.4rem 0;
   font-size: 2rem;
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 .not-connected p {
@@ -353,7 +353,7 @@ section {
 
 @media screen and (max-width: 768px) {
   .menu {
-    gap: 1rem;
+    gap: 3rem;
   }
   .wallet-btn {
     margin-left: 0;
@@ -363,7 +363,7 @@ section {
   .not-connected {
     background-color: var(--bg-color-transparent);
     border-radius: 5px;
-    padding: 2rem;
+    padding: 1rem;
     margin: 0 auto;
   }
   .countdown ul {
