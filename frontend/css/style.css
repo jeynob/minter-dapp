@@ -93,6 +93,12 @@ header .container {
   line-height: 1.2;
 }
 
+.not-connected p2 {
+  font-size: 1.5rem;
+  font-family: "VT323";
+  line-height: 1.2;
+}
+
 .not-connected a {
   text-decoration: none;
   color: var(--accent-color);
