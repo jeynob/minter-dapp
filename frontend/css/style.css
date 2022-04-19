@@ -10,14 +10,14 @@
   --font-primary: "Poppins", sans-serif;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
-  --bg-color: #243026;
+  --bg-color: #2e301a;
   --bg-color-transparent: #e2e6ef80;
   --font-color: #ffffff;
   --btn-bg-color: #201a1a;
   --accent-color: #bf7805;
   --header-shadow: var(--accent-color) 0px 0px 0px;
   --card-shadow: var(--accent-color) 0px 0px 0px;
-  --bg-color-2: #43a353;
+  --bg-color-2: #464a27;
 }
 
 * {
