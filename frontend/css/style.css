@@ -30,7 +30,7 @@ body {
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
-  height: 130vh;
+  height: 120vh;
   color: var(--font-color);
   font-family: "Press Start 2P";
 }
@@ -39,7 +39,7 @@ body {
   display: flex;
   flex-direction: column;
   max-width: 960px;
-  margin: -5 auto;
+  margin: 0 auto;
   padding: 1rem 2rem;
   justify-content: center;
   overflow: hidden;
@@ -103,6 +103,7 @@ header .container {
   text-align: center;
   width: 4000;
   height: 200px;
+  vertical-align: baseline;
 }
 
 .not-connected a {
