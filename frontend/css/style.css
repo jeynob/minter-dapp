@@ -99,9 +99,9 @@ header .container {
   line-height: 1.2;
   position: absolute;
   top: 90%;
-  left: 25%;
+  left: 0%;
   text-align: center;
-  width: 2000;
+  width: 4000;
   height: 200px;
 }
 
