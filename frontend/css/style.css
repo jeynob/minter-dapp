@@ -30,7 +30,7 @@ body {
   background-color: var(--bg-color);
   display: flex;
   flex-flow: column;
-  height: 120vh;
+  height: 140vh;
   color: var(--font-color);
   font-family: "Press Start 2P";
 }
