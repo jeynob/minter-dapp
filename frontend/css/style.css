@@ -191,7 +191,7 @@ section {
   color: var(--font-color);
   font-size: 2rem;
   font-weight: 700;
-  font-family: "VT323";
+  font-family: var(--font-secondary);
   padding: 1rem;
   display: inline-block;
   width: 100%;
@@ -226,7 +226,7 @@ section {
 
 .countdown > p {
   font-size: 1.1rem;
-  font-family: var(--font-secondary);
+  font-family: "VT323";
   margin-bottom: 2rem;
   text-align: center;
 }
